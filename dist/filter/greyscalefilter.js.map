@@ -1,0 +1,1 @@
+{"version":3,"file":"greyscalefilter.js","sourceRoot":"","sources":["../../src/filter/greyscalefilter.ts"],"names":[],"mappings":";;AAGA;IACI,KAAK,CAAC,CAAS,EAAE,CAAS,EAAE,MAAc;QACtC,MAAM,CAAC,QAAQ,CAAC,MAAM,CAAC,eAAe,EAAE,EAAE,CAAC,EAAE,CAAC,EAAE,MAAM,CAAC,aAAa,CAAC,MAAM,CAAC,eAAe,EAAE,EAAE,CAAC,EAAE,CAAC,CAAC,CAAC,OAAO,EAAE,CAAC,CAAC;IACpH,CAAC;CACJ;AAJD,0CAIC"}
